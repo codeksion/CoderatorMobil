@@ -3,7 +3,7 @@
     <uses-permission android:name="android.permission.INTERNET"/>
    <application
    
-        android:label="Coderator Mobil"
+        android:label="Coderator Mobil FOSS"
         android:icon="@mipmap/ic_launcher">
         
         <activity
