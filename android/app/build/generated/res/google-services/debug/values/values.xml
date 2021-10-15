@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1034254443565-hi76vhe5j8k9dsghl00tikovmd16te1u.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1034254443565</string>
+    <string name="google_api_key" translatable="false">AIzaSyA8wpQ6DKmF-qLtjyH4gGa8-WqpN39UBHQ</string>
+    <string name="google_app_id" translatable="false">1:1034254443565:android:9773b9feab6a6b561d44a4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA8wpQ6DKmF-qLtjyH4gGa8-WqpN39UBHQ</string>
+    <string name="google_storage_bucket" translatable="false">coderator-mobil.appspot.com</string>
+    <string name="project_id" translatable="false">coderator-mobil</string>
+</resources>

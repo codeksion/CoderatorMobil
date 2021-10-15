@@ -1,2 +1,0 @@
-# CoderatorMobil
-Coderator Mobil

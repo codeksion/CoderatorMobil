@@ -1,0 +1,59 @@
+name: coderatorfoss
+description: Coderator Mobil
+
+
+publish_to: 'none'
+
+version: 0.9+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  http: ^0.13.3
+  chewie: ^1.2.2
+  advance_pdf_viewer: ^2.0.0
+  url_launcher: ^6.0.11
+  wakelock: ^0.5.6
+  flex_color_scheme: ^3.0.1
+  path_provider: ^2.0.5
+  flutter_html: ^2.1.2
+  
+  permission_handler: ^8.2.2 #gereksiz
+  mime: ^1.0.0
+  
+  
+
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: imajlar/coderator.jpg
+
+dev_dependencies:
+  flutter_launcher_icons:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^1.0.0
+
+
+flutter:
+
+  
+  uses-material-design: true
+
+  assets:
+   - imajlar/
+  
+  fonts:
+    - family: origin
+      fonts:
+      - asset: fontlar/origin.ttf
+        
