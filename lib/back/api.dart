@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 import 'package:coderatorfoss/back/template.dart';
 
-String apiURL = "https://aom.coderator.net";
+String apiURL = "https://depo.coderator.net";
 
 class ApiRequest {
   String path;
