@@ -66,7 +66,7 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/raif/
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.6.0] /home/raif/.gradle/caches/transforms-3/02dedafa2455f43d37bc8d9b68e9e7c0/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /home/raif/Projeler/coderatormobil/public_0.9/android/app/src/main/AndroidManifest.xml:6:9-40
+		ADDED from /home/raif/Projeler/coderatormobil/public_0.9/android/app/src/main/AndroidManifest.xml:6:9-45
 	android:icon
 		ADDED from /home/raif/Projeler/coderatormobil/public_0.9/android/app/src/main/AndroidManifest.xml:7:9-43
 activity#net.codeksion.coderatormobil.coderatorfoss.MainActivity

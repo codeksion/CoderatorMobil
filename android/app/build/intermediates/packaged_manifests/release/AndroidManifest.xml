@@ -15,7 +15,7 @@
         android:name="androidx.multidex.MultiDexApplication"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:icon="@mipmap/ic_launcher"
-        android:label="Coderator Mobil" >
+        android:label="Coderator Mobil FOSS" >
         <activity
             android:name="net.codeksion.coderatormobil.coderatorfoss.MainActivity"
             android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
